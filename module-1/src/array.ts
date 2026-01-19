@@ -9,3 +9,5 @@ rollNumber[8] = 58
 const user = [412, "Kabir"]
 user[1] = "Mohsin"
 user[0] = 123
+
+console.log(user)
